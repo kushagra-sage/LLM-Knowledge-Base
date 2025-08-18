@@ -1,4 +1,4 @@
-# Natural Language Processing - I
+# Natural Language Processing
 
 ## 🎯 **Learning Objectives**
 
@@ -1937,7 +1937,7 @@ Perplexity = 2^(cross-entropy) provides a direct connection between information 
 
 ---
 
-## 📚 **Unit 2.1 Summary & Key Takeaways**
+## 📚 **Unit 2 Summary & Key Takeaways**
 
 ## **🎯 What We've Mastered**
 
